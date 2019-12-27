@@ -1,2 +1,2 @@
-# Antar
-Sistema de control de documentos para la empresa Antar
+# Cointic_Antar
+El proyecto web para la constructora Antar. Le permite a la constructora establecer proyectos, contratos y fianzas
